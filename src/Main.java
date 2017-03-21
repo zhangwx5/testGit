@@ -8,7 +8,6 @@ public class Main {
 	 * @创建时间:  2017-3-21
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 System.out.println("main");
 System.out.println("main1");
 	}
